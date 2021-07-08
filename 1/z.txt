@@ -1,3 +1,15 @@
+LinkinPark
+https://cdn.jsdelivr.net/gh/z-ix/LP/1/1.mp3
+~
+链接LP/之后第一个1代表专辑序数，第二个1代表在专辑目录中序数
+曲目目录https://cdn.jsdelivr.net/gh/z-ix/LP/1/z.txt
+~
+例，Battle Symphony是第7个专辑One more light中第4首，地址应为
+https://cdn.jsdelivr.net/gh/z-ix/LP/7/4.mp3
+˙·．.．·˙`˙·．..．·
+
+
+
    ,
 _,,)\.~,,._
 (()`  ``)\))),,_
